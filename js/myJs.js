@@ -1,17 +1,17 @@
 const textConfig = {
-    text1: "Hế luu Bx!",
-    text2: "Ox có điều này muốn hỏi Bx nhớ phải trả lời thật lòng nhaaa.",
-    text3: "Bx yêu Ox có phải không nào ._.",
-    text4: "Nếu Bx ko trả lời mà thoát ra tức là muốn làm vợ Ox rùi đó nha :v",
-    text5: "Khom iu Ox nha :))",
-    text6: "Iu Ox nhèo nhèo :))",
-    text7: "Sao Bx iu Ox vại. :vvvv",
-    text8: "Gửi cho Ox di <3",
-    text9: "Vì Ox đẹp try vlllll",
-    text10: "Iu Vk quá luôn ó",
+    text1: "Hế luu bé Nhuy!",
+    text2: "Long có điều này muốn hỏi Nhuy nhớ phải trả lời thật lòng nhaaa.",
+    text3: "Nhuy yêu Long có phải không nào ._.",
+    text4: "Nếu Nhuy ko trả lời mà thoát ra tức là muốn làm vợ Ox rùi đó nha :v",
+    text5: "Khum iu Long nha :))",
+    text6: "Iu Long nhèo nhèo :))",
+    text7: "Sao Nhuy iu Long dị. :vvvv",
+    text8: "Gửi cho Long di <3",
+    text9: "Vì Long đẹp chay ..........",
+    text10: "Vũ trụ này là do anh tạo ra cho riêng 2 đứa mình",
     text11:
-      "Lấy Ox lun nha Bx :DDDDDDDDDDDDD",
-    text12: "Okii lunn <3",
+      "Mời em vào vũ trụ của riêng chúng ta :DDDDDDDDDDDDD",
+    text12: "Ok lunn <3",
   };
   
   $(document).ready(function () {
