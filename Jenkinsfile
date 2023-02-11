@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') { 
             steps {
-                sh 'python -m http.server 1402' 
+                sh 'python3 -m http.server 1402' 
             }
         }
     }
